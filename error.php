@@ -215,7 +215,7 @@
                   <div class="footer-link-container">
                     <!-- <span>No upcoming events to show</span> -->
                     <div class="footer-link-container">
-                      <a class="standard-link" href="/skills/secure.php">SkillsUSA 2023</a>
+                      <a class="standard-link" href="https://www.goldenharpmedia.com/skills/secure.php">SkillsUSA 2023</a>
                     </div>
                     <!-- <div class="footer-link-container">
                       <a class="standard-link" href="/events/sbsp-2023.html">Small Business Saturday Prep 2023</a>
